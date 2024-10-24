@@ -1,0 +1,12 @@
+
+
+Programı yönetici olarak çalıştır
+
+İlk kullanımda gerekli ayarları config.ini dosyasına gir
+
+AD sunucu erişimi için yeterli yetkilere sahip olmalı
+
+SMTP sunucu ayarlarını doğru yapılandırmaı 
+
+
+〇ﬡᖙ∈ᖇ Ⲙᗝﬡᕍ∈ᖇ
