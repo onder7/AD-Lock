@@ -1,4 +1,4 @@
-
+Active Directory'deki kilitli hesapları ve başarısız oturum açma girişimlerini kontrol eden bir PyQt5 tabanlı masaüstü uygulamasıdır.
 
 Programı yönetici olarak çalıştır
 
