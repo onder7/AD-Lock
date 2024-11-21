@@ -151,7 +151,7 @@ password = ****
 ## 📱 İletişim ve Destek
 - 📧 E-posta: [onder7@gmail.com]
 - 🌐 GitHub: [github.com/onder7]
-- 📞 Destek: [+90 xxx xxx xx xx]
+- 📞 Destek: [+90 541 411 30 22]
 
 ## ⚖️ Lisans
 Bu proje MIT lisansı altında lisanslanmıştır.
@@ -169,8 +169,9 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 - LDAP3 ile AD bağlantısı sağlanmıştır
 - Multi-threading ile performans optimizasyonu yapılmıştır
 
----
-İletişim
+
+## ⚖️ Lisans
+Bu proje MIT lisansı altında lisanslanmıştır.
 --------
 Teknik destek için onder7@gmail.com iletişime geçin.
 Önder AKÖZ / System & Network Specialist
@@ -178,3 +179,8 @@ Teknik destek için onder7@gmail.com iletişime geçin.
 **..:: Onder Monder ::..**
 *Profesyonel IT Çözümleri*
 </div>
+---
+## 📱 İletişim ve Destek
+- 📧 E-posta: [onder7@gmail.com]
+- 🌐 GitHub: [github.com/onder7]
+- 📞 Destek: [+90 541 411 30 22]
