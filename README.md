@@ -170,11 +170,11 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 - Multi-threading ile performans optimizasyonu yapılmıştır
 
 ---
-
+İletişim
+--------
+Teknik destek için onder7@gmail.com iletişime geçin.
+Önder AKÖZ / System & Network Specialist
 <div align="center">
-
 **..:: Onder Monder ::..**
-
 *Profesyonel IT Çözümleri*
-
 </div>
